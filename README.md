@@ -6,6 +6,7 @@ O objetivo principal é demonstrar e validar a integração entre os serviços u
 
 ## Estrutura do Projeto
 - server/: Arquivo simulando o servidor Go
+- client/: Arquivo simulando um cliente Go
 - proto/: Armazena os arquivos protobuf para definição de serviços e mensagens.
 - pb/: Armazena a saída dos arquivos protobuf
 
